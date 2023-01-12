@@ -1,5 +1,5 @@
 # Maskinuthyrarna
 
-En sida där man kan hyra maskiner för byggarbeten och andra projekt
+Website where you can rent machinery for construction work
 
 <img src="Maskinuthyrarna.png" alt="Screenshot" title="Screenshot">
